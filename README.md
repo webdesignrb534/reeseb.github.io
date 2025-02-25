@@ -1,11 +1,11 @@
 # reeseb.github.io
 
 ## The Little Women Musical
-- Homepage -> [upwork](
+- Homepage -> [upwork](https://webdesignrb534.github.io/reeseb.github.io/)
 
 ### Introduction
 - The students have been preparing for months to bring this musical to life! This weekend only brought to you by talented Ripon High School students! Check out this flyer below!
-- [upwork](
+- [upwork](file:///Users/student/Downloads/The%20Little%20Women%20Musical.html)
 
 #### Ever Wondered What District They Come From?
 - Well, in our small town of Ripon, Wi students have afforable and accessible resources to help them turn their dreams into reality!
