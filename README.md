@@ -11,4 +11,6 @@
 - Well, in our small town of Ripon, Wi students have afforable and accessible resources to help them turn their dreams into reality!
 -  [Ripon Area School District](https://www.ripon.k12.wi.us/)
 
+#### Extra Images
+
 
