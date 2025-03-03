@@ -12,7 +12,7 @@
 -  [Ripon Area School District](https://www.ripon.k12.wi.us/)
 
 #### Extra Images
-< img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlRqsIu5etUwSu29iwaralxe8iTjOzlMyKw&s">
-< img src = "https://www.publicdomainpictures.net/en/view-image.php?image=7756&picture=orange-fruit-pattern">
-< img src = "https://publicdomainarchive.com/public-domain-images-desert-sand-dune-orange-blue-sky.html">
+<img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGlRqsIu5etUwSu29iwaralxe8iTjOzlMyKw&s">
+<img src = "https://www.publicdomainpictures.net/en/view-image.php?image=7756&picture=orange-fruit-pattern">
+<img src = "https://publicdomainarchive.com/public-domain-images-desert-sand-dune-orange-blue-sky.html">
 
