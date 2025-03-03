@@ -12,7 +12,7 @@
 -  [Ripon Area School District](https://www.ripon.k12.wi.us/)
 
 #### Extra Photos
-- Ripon Schooling -> [Here]()
+- Ripon Schooling -> [Here](docs/assets/download.png)
 - Oranges -> [Here]()
 - Desert -> [Here](docs/assets/c-domain-images-free-stock-photos-high-quality-resolution-downloads-public-domain-archive-1-1000x667_iazox88bms4wiss0mmdiuy.jpg)
 
