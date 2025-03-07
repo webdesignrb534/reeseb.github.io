@@ -16,3 +16,8 @@
 <img src = "https://www.publicdomainpictures.net/en/view-image.php?image=7756&picture=orange-fruit-pattern">
 <img src = "https://publicdomainarchive.com/public-domain-images-desert-sand-dune-orange-blue-sky.html">
 
+| Name | Grade | Role |
+| :---         |     :---:      |          ---: |
+| Lauren J   | 12th     | Jo March    |
+| Billy B     | 10th       | Beth March      |
+| Kinsley C     | 9th       | Amy March      |
