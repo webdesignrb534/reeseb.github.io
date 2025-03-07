@@ -17,8 +17,7 @@
 <img src = "https://publicdomainarchive.com/public-domain-images-desert-sand-dune-orange-blue-sky.html">
 
 #### Intrested in the Cast?
-| Name         | Grade          |          Role |
-| :---         |     :---:      |          ---: |
-| Lauren J     | 12th           | Jo March      |
-| Billy B      | 10th           | Beth March    |
-| Kinsley C    | 9th            | Amy March     |
+| Name |  Grade |
+| ------------- | ------------- |
+| Lauren J  | 12th  |
+| Billy B  | 10th  |
