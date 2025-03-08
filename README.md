@@ -27,9 +27,11 @@
      <tr>
         <td>Name</td>
         <td>Grade</td>
+        <td>Role</td>
     </tr>
      <tr>
-        <td>Row 2, Column 1</td>
-        <td>Row 2, Column 2</td>
+        <td>Lauren J</td>
+        <td>Darel P</td>
+        <td>Kate S</td>
     </tr>
 </table>
