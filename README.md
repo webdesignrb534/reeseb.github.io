@@ -31,7 +31,16 @@
     </tr>
      <tr>
         <td>Lauren J</td>
+        <td>12th</td>
+        <td>Amy March</td>
+    </tr> 
+     <tr>
         <td>Darel P</td>
+        <td>10th</td>
+        <td>Jo March</td>
+     </tr>
+     <tr>
         <td>Kate S</td>
-    </tr>
+        <td>9th</td>
+        <td>Beth March</td>
 </table>
