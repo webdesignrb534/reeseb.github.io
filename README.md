@@ -17,11 +17,6 @@
 <img src = "https://publicdomainarchive.com/public-domain-images-desert-sand-dune-orange-blue-sky.html">
 
 #### Intrested in the Cast?
-<style>
-     table, tr, td {
-         border: 1px solid black;
-     }
- </style>
 <table>
      <tr>
         <td>Name</td>
