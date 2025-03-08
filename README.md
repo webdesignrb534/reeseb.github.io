@@ -25,8 +25,8 @@
 
 <table>
      <tr>
-        <td>Row 1, Column 1</td>
-        <td>Row 1, Column 2</td>
+        <td>Name</td>
+        <td>Grade</td>
     </tr>
      <tr>
         <td>Row 2, Column 1</td>
