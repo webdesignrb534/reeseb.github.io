@@ -17,8 +17,19 @@
 <img src = "https://publicdomainarchive.com/public-domain-images-desert-sand-dune-orange-blue-sky.html">
 
 #### Intrested in the Cast?
-| Name | Role | Grade |
-| :---         |     :---:      |          ---: |
-| Lauren J   | Amy March     | 9th    |
-| Kinsley K     |  Jo March       | 12th      |
-| Darel P    |  Beth March       | 10th      |
+<style>
+    table, tr, td {
+        border: 1px solid black;
+    }
+</style>
+
+<table>
+     <tr>
+        <td>Row 1, Column 1</td>
+        <td>Row 1, Column 2</td>
+    </tr>
+     <tr>
+        <td>Row 2, Column 1</td>
+        <td>Row 2, Column 2</td>
+    </tr>
+</table>
