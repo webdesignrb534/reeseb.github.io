@@ -16,24 +16,3 @@
 <img src = "https://www.publicdomainpictures.net/en/view-image.php?image=7756&picture=orange-fruit-pattern">
 <img src = "https://publicdomainarchive.com/public-domain-images-desert-sand-dune-orange-blue-sky.html">
 
-#### Intrested in the Cast?
-     <tr>
-        <td>Name</td>
-        <td>Grade</td>
-        <td>Role</td>
-    </tr>
-     <tr>
-        <td>Lauren J</td>
-        <td>12th</td>
-        <td>Amy March</td>
-    </tr> 
-     <tr>
-        <td>Darel P</td>
-        <td>10th</td>
-        <td>Jo March</td>
-     </tr>
-     <tr>
-        <td>Kate S</td>
-        <td>9th</td>
-        <td>Beth March</td>
-</table>
